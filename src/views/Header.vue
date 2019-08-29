@@ -46,12 +46,4 @@ export default {
 .navbar {
   padding: 1rem 1rem;
 }
-
-a {
-  text-decoration: none;
-}
-
-#nav a.router-link-exact-active {
-  color: #d878f0;
-}
 </style>
