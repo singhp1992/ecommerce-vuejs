@@ -15,9 +15,9 @@
         <router-link to="/about" class="nav-link" href="#">About<span class="sr-only">(current)</span></router-link>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <router-link class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Products
-        </a>
+        </router-link>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">All Products</a>
           <a class="dropdown-item" href="#">Products.a</a>
