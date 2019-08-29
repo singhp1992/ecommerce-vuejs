@@ -6,6 +6,9 @@
     <router-link to="/about">About</router-link> |
     <router-link to="/products">Products</router-link> |
     <router-link to="/cart">Shopping Cart</router-link>
+    <div class="active-cyan-4 mb-4">
+      <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+    </div>
   </div>
 </template>Î
 
