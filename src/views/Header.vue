@@ -1,14 +1,6 @@
 // header here
 // add search option - bootstrap
 <template>
-  <!-- <div class="header" id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link> |
-    <router-link to="/products">Products</router-link> |
-    <router-link to="/cart">Shopping Cart</router-link>
-      <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-  </div> -->
-
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
