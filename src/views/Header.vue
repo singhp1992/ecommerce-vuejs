@@ -10,7 +10,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <routerlink class="nav-link" href="#">Home<span class="sr-only">(current)</span></routerlink>
+        <routerlink to="/home" class="nav-link" href="#">Home<span class="sr-only">(current)</span></routerlink>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
