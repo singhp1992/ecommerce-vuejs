@@ -38,4 +38,8 @@ export default {
 .height {
   height: 75px;
 }
+
+li a:hover {
+  color: blue;
+}
 </style>
