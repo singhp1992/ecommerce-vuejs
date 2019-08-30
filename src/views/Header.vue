@@ -18,10 +18,6 @@
         <router-link to="/products" class="nav-link dropdown-toggle active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Products
         </router-link>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">All Products</a>
-          <a class="dropdown-item" href="#">Products.a</a>
-        </div>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
