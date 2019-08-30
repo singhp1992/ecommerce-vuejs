@@ -14,11 +14,6 @@
       <li class="nav-item active">
         <router-link to="/products" class="nav-link">Products<span class="sr-only">(current)</span></router-link>
       </li>
-      <li class="nav-item dropdown">
-        <router-link to="/products" class="nav-link active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Products
-        </router-link>
-      </li>
     </ul>
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
