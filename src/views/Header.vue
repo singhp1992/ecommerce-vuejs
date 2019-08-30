@@ -39,7 +39,7 @@ export default {
   height: 75px;
 }
 
-:hover {
+.nav-link {
   color: rgb(140, 140, 250);
 }
 </style>
