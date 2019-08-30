@@ -12,7 +12,7 @@
         <router-link to="/" class="nav-link" href="#">Home<span class="sr-only">(current)</span></router-link>
       </li>
       <li class="nav-item active">
-        <router-link to="/about" class="nav-link" href="#">About<span class="sr-only">(current)</span></router-link>
+        <router-link to="/about" class="nav-link">About<span class="sr-only">(current)</span></router-link>
       </li>
       <li class="nav-item active">
         <router-link to="/products" class="nav-link">Products<span class="sr-only">(current)</span></router-link>
