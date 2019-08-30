@@ -34,7 +34,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .height {
   height: 75px;
 }
