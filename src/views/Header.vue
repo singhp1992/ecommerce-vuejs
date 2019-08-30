@@ -38,4 +38,8 @@ export default {
 .height {
   height: 75px;
 }
+
+:hover {
+  color: rgb(140, 140, 250);
+}
 </style>
