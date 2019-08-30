@@ -38,7 +38,7 @@ export default {
 </script>
 
 <style>
-nav {
+.navbar {
   padding: 1rem 1rem;
 }
 </style>
