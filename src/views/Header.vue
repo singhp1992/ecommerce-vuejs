@@ -14,6 +14,9 @@
       <li class="nav-item active">
         <router-link to="/about" class="nav-link" href="#">About<span class="sr-only">(current)</span></router-link>
       </li>
+      <li class="nav-item active">
+        <router-link to="/about" class="nav-link" href="#">About<span class="sr-only">(current)</span></router-link>
+      </li>
       <li class="nav-item dropdown">
         <router-link to="/products" class="nav-link active" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Products
