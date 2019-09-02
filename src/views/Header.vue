@@ -42,8 +42,4 @@ export default {
 :hover {
   color: rgb(140, 140, 250);
 }
-
-xx {
-  font-size: xx-large;
-}
 </style>
