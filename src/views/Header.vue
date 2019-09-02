@@ -3,7 +3,7 @@
 <template>
   <div class="height"> 
     <nav class="height navbar navbar-expand-lg navbar-dark bg-dark">
-    <router-link to="/" class="navbar-brand">Store</router-link>
+    <router-link to="/" id="larger" class="navbar-brand">Store</router-link>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
@@ -41,5 +41,9 @@ export default {
 
 :hover {
   color: rgb(140, 140, 250);
+}
+
+#larger {
+  font-size: xx-large;
 }
 </style>
