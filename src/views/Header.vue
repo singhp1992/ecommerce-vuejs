@@ -42,4 +42,8 @@ export default {
 :hover {
   color: rgb(140, 140, 250);
 }
+
+#larger {
+  
+}
 </style>
