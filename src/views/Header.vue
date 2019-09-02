@@ -50,6 +50,6 @@ export default {
 }
 
 #search-right {
-
+  padding-right: 10px;
 }
 </style>
