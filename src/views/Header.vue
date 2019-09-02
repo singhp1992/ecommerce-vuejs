@@ -48,4 +48,8 @@ export default {
   padding-right: 50px;
   padding-left: 10px;
 }
+
+#search-right {
+  
+}
 </style>
