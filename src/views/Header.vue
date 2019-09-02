@@ -16,7 +16,7 @@
           <router-link to="/products" class="nav-link">Products<span class="sr-only">(current)</span></router-link>
         </li>
       </ul>
-        <form class="form-inline my-2 my-lg-0">
+        <form id="search-right" class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
@@ -45,5 +45,11 @@ export default {
 
 #larger {
   font-size: xx-large;
+  padding-right: 50px;
+  padding-left: 10px;
+}
+
+#search-right {
+  padding-right: 10px;
 }
 </style>
