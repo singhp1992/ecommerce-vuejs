@@ -44,6 +44,6 @@ export default {
 }
 
 #larger {
-  
+  font-size: xx-large;
 }
 </style>
