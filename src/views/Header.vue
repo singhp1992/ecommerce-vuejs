@@ -45,5 +45,6 @@ export default {
 
 #larger {
   font-size: xx-large;
+  padding-right: 20px;
 }
 </style>
