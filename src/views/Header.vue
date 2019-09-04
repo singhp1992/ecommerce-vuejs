@@ -39,10 +39,6 @@ export default {
   height: 75px;
 }
 
-#height:hover {
-  color: rgb(140, 140, 250);
-}
-
 #larger:hover {
   color: rgb(140, 140, 250);
 }
