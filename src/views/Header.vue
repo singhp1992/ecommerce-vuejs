@@ -3,7 +3,7 @@
 <template>
   <div id="height"> 
     <nav class="height navbar navbar-expand-lg navbar-dark bg-dark">
-    <router-link to="/" id="larger" class="navbar-brand">Store</router-link>
+    <router-link to="/" id="purple" class="navbar-brand">Store</router-link>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul id="purple" class="navbar-nav mr-auto">
         <li class="nav-item active">
