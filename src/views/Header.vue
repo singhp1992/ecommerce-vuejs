@@ -43,6 +43,10 @@ export default {
   color: rgb(140, 140, 250);
 }
 
+#larger:hover {
+  color: rgb(140, 140, 250);
+}
+
 #larger {
   font-size: xx-large;
   padding-right: 50px;
