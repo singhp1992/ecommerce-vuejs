@@ -39,7 +39,7 @@ export default {
   height: 75px;
 }
 
-#larger:hover {
+#purple:hover {
   color: rgb(140, 140, 250);
 }
 
