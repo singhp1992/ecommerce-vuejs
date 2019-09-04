@@ -1,11 +1,11 @@
 // header here
 // add search option - bootstrap
 <template>
-  <div class="height"> 
+  <div id="height"> 
     <nav class="height navbar navbar-expand-lg navbar-dark bg-dark">
     <router-link to="/" id="larger" class="navbar-brand">Store</router-link>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul id="purple" class="navbar-nav mr-auto">
         <li class="nav-item active">
           <router-link to="/" class="nav-link">Home<span class="sr-only">(current)</span></router-link>
         </li>
@@ -35,11 +35,11 @@ export default {
 </script>
 
 <style>
-.height {
+#height {
   height: 75px;
 }
 
-:hover {
+#purple:hover {
   color: rgb(140, 140, 250);
 }
 
