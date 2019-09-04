@@ -1,7 +1,7 @@
 // header here
 // add search option - bootstrap
 <template>
-  <div class="height"> 
+  <div id="height"> 
     <nav class="height navbar navbar-expand-lg navbar-dark bg-dark">
     <router-link to="/" id="larger" class="navbar-brand">Store</router-link>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -39,7 +39,7 @@ export default {
   height: 75px;
 }
 
-:hover {
+#height:hover {
   color: rgb(140, 140, 250);
 }
 
