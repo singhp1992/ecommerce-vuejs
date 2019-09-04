@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style>
-.height {
+#height {
   height: 75px;
 }
 
