@@ -58,3 +58,4 @@ export default {
 // customize search enginge 
 // look into span elements
 // add css to ids
+// add more reusable components
