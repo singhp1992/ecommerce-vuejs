@@ -2,6 +2,7 @@
 <template>
   <div class="cart">
     <Title msg="Your Shopping Cart" />
+    <Title msg="Total" />
   </div>
 </template>
 
