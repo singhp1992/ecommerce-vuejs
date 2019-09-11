@@ -34,21 +34,5 @@ export default {
 </script>
 
 <style>
-#height {
-  height: 75px;
-}
 
-#purple:hover {
-  color: rgb(140, 140, 250);
-}
-
-#larger {
-  font-size: xx-large;
-  padding-right: 50px;
-  padding-left: 10px;
-}
-
-#search-right {
-  padding-right: 10px;
-}
 </style>
