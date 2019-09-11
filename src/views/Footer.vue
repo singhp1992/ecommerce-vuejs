@@ -2,7 +2,7 @@
 <template>
   <div id="footer"> 
     <ul>
-        </ul>
+    </ul>
 
   </div>
 </template>Î
