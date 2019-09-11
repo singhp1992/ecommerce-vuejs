@@ -1,6 +1,6 @@
 // footer with copyright here
 <template>
-  <div id="height"> 
+  <div id="footer"> 
 
   </div>
 </template>Î
