@@ -2,6 +2,7 @@
 <template>
   <div id="footer"> 
     <ul>
+      <li></li>
     </ul>
   </div>
 </template>Î
@@ -16,5 +17,8 @@ export default {
 </script>
 
 <style>
+ul {
+  text-decoration: none;  
+}
 
 </style>
