@@ -1,6 +1,7 @@
 // footer with copyright here
 <template>
   <div id="footer"> 
+    <Title />
     <ul>
       <li></li>
     </ul>
