@@ -1,29 +1,21 @@
 // footer with copyright here
 <template>
   <div id="footer"> 
-    <Title />
-    <ul>
-      <li></li>
-    </ul>
   </div>
 </template>Î
 
-<script> 
+<script>
 export default {
   name: "footer",
-  components: {
-    
-  }
+  components: {}
 };
 </script>
 
 <style>
 ul {
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 li {
-  
 }
-
 </style>
