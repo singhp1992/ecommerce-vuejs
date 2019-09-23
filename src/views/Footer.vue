@@ -2,9 +2,6 @@
 <template>
   <div id="footer"> 
     <Title />
-    <ul>
-      <li></li>
-    </ul>
   </div>
 </template>Î
 
